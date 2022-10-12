@@ -5,8 +5,6 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "TypesOfFactories\FactoryMethod.csproj", "{C1EE7335-7FF5-4FD4-BE31-71E677BE5084}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Examples", "Examples\Examples.csproj", "{9C028631-4A60-4505-B3BC-5A927A33C2A0}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleExample", "SimpleExample\SimpleExample.csproj", "{80463980-BE1C-4857-969C-83FB6694366E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryAsync", "FactoryAsync\FactoryAsync.csproj", "{02BA8F2D-3998-4BDE-8182-C9F95FA57290}"
@@ -27,10 +25,6 @@ Global
 		{C1EE7335-7FF5-4FD4-BE31-71E677BE5084}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1EE7335-7FF5-4FD4-BE31-71E677BE5084}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1EE7335-7FF5-4FD4-BE31-71E677BE5084}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9C028631-4A60-4505-B3BC-5A927A33C2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9C028631-4A60-4505-B3BC-5A927A33C2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9C028631-4A60-4505-B3BC-5A927A33C2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9C028631-4A60-4505-B3BC-5A927A33C2A0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{80463980-BE1C-4857-969C-83FB6694366E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{80463980-BE1C-4857-969C-83FB6694366E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80463980-BE1C-4857-969C-83FB6694366E}.Release|Any CPU.ActiveCfg = Release|Any CPU
