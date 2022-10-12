@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Creational.Factories.AbstractFactory.cs" />
+    <Compile Remove="Creational.Factories.BulkReplacement.Program.cs" />
+    <Compile Remove="Creational.Factories.Factory.cs" />
+    <Compile Remove="ExerciseAnswers.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Creational.Factories.AbstractFactory.cs" />
+    <None Include="Creational.Factories.BulkReplacement.Program.cs" />
+    <None Include="Creational.Factories.Factory.cs" />
+    <None Include="ExerciseAnswers.cs" />
+  </ItemGroup>
+
+</Project>
